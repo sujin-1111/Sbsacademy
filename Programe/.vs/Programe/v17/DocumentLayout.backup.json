@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\leeju\\OneDrive\\Desktop\\Programe\\",
+  "WorkspaceRootPath": "C:\\Users\\leeju\\OneDrive\\Desktop\\Sbsacademy\\Sbsacademy\\Programe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D1715-5B3E-4719-B58B-D5AA207508C9}|Programe.vcxproj|C:\\Users\\leeju\\OneDrive\\Desktop\\Programe\\programe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BB8D1715-5B3E-4719-B58B-D5AA207508C9}|Programe.vcxproj|C:\\Users\\leeju\\OneDrive\\Desktop\\Sbsacademy\\Sbsacademy\\Programe\\programe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BB8D1715-5B3E-4719-B58B-D5AA207508C9}|Programe.vcxproj|solutionrelative:programe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "programe.cpp",
-              "DocumentMoniker": "C:\\Users\\leeju\\OneDrive\\Desktop\\Programe\\programe.cpp",
+              "DocumentMoniker": "C:\\Users\\leeju\\OneDrive\\Desktop\\Sbsacademy\\Sbsacademy\\Programe\\programe.cpp",
               "RelativeDocumentMoniker": "programe.cpp",
-              "ToolTip": "C:\\Users\\leeju\\OneDrive\\Desktop\\Programe\\programe.cpp",
+              "ToolTip": "C:\\Users\\leeju\\OneDrive\\Desktop\\Sbsacademy\\Sbsacademy\\Programe\\programe.cpp",
               "RelativeToolTip": "programe.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-12T09:24:49.73Z",
               "EditorCaption": ""
